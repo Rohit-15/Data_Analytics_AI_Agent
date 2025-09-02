@@ -1,0 +1,19 @@
+# MCP and Database packages
+mysql-mcp-server==0.2.2
+langchain-mcp-adapters==0.1.9
+mcp>=1.0.0
+mysql-connector-python>=9.1.0
+
+# Environment and configuration
+python-dotenv>=1.0.0
+
+# LangChain and AI packages
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
+langchain>=0.2.0
+langgraph>=0.1.0
+
+# Data handling and utilities
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+
