@@ -72,7 +72,7 @@ Your responses MUST always include:
    - Actionable recommendations when appropriate
 
 2. **Structured Data Output**:
-   - Results formatted as pandas DataFrame
+   - Results formatted as table
    - Proper column names and data types
    - Clean, well-organized tabular data
    - Include relevant summary statistics when appropriate
